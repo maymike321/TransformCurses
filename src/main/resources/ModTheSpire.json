@@ -1,0 +1,9 @@
+{
+  "modid": "TransformCurses",
+  "name": "Transform Curses",
+  "author_list": ["para", "strand"],
+  "description": "Curses now transform into normal cards instead of other curses.",
+  "version": "1.0",
+  "mts_version": "2.6.0",
+  "dependencies": ["basemod"]
+}
